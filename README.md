@@ -22,6 +22,10 @@ Or Santa Fe
 
 /us/nm/santa-fe.json
 
+Until we set up a permanent home, you can get the data by grabbing the raw file off github like so:
+
+https://raw.github.com/opengovernment/municipal-description-data/master/us/nm/albuquerque.json
+
 
 #Contributing
 
