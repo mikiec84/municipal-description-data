@@ -22,6 +22,12 @@ Or Santa Fe
 
 /us/nm/santa-fe.json
 
+Countries where regions (aka states or provinces)  are not relevant can skip them and simply use this pattern:
+
+```
+country code/city name with dash separators plus .json extension
+```
+
 Until we set up a permanent home, you can get the data by grabbing the raw file off github like so:
 
 https://raw.github.com/opengovernment/municipal-description-data/master/us/nm/albuquerque.json
