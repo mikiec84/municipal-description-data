@@ -1,0 +1,19 @@
+{
+  'name': 'Albequerque City Council',
+  'url': 'http://www.cabq.gov/council/',
+  'terms': [{
+    'name': '2013-2015',
+    'start_year': 2013,
+    'end_year': 2015,
+    'sessions': ['2013'],
+  }],
+  'provides': ['people'],
+  'parties': [
+    {'name': 'Democratic' },
+    {'name': 'Republican' },
+  ],
+  'session_details': {
+    '2013': {'_scraped_name': '2013'}
+  },
+  'feature_flags': [],
+}
