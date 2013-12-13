@@ -1,0 +1,11 @@
+{"name": "New York City Council",
+ "url": "http://council.nyc.gov/",
+ "terms": [{"name": "2013-2014", "sessions": ["2013"],
+            "start_year": 2013, "end_year": 2014}],
+ "provides": ["people", "events"],
+ "parties": [{"name": "Democrat" },
+             {"name": "Republican"},
+             {"name": "other"}],
+ "session_details": {"2013": {"_scraped_name": "2013"}},
+ "feature_flags": []
+}
