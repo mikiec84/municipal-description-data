@@ -3,8 +3,13 @@ municipal-description-data
 
 Machine readable (JSON) descriptions of municipal (city) council descriptions for use with opencivicdata/pupa.
 
-See http://docs.opencivicdata.org/en/latest/scrape/new.html and https://github.com/opencivicdata/municipal-scrapers-us. Meant as a way of sharing the data required to scrape and describe municipalities' councils.
+See
+[Edit the Jurisdiction's Metadata](http://docs.opencivicdata.org/en/latest/scrape/new.html#edit-the-jurisdiction-s-metadata)
+as a rough guide to creating a description  and
+https://github.com/opencivicdata/municipal-scrapers-us as an example
+of application.
 
+Meant as a way of sharing the data required to scrape and describe municipalities' councils.
 
 #Usage
 
